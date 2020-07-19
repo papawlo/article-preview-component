@@ -281,4 +281,8 @@ body {
     .card-footer.toggled .tooltip-content-mobile {
         display: block;
     }
+
+    .card-footer.toggled .tooltip-content-desktop {
+        display: none;
+    }
 }
